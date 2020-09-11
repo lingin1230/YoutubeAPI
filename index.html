@@ -47,7 +47,6 @@
        </div>
 
      </div>
-
      <script src="https://apis.google.com/js/api.js"></script>
      <script>
        /**
@@ -86,11 +85,13 @@
                    function(err) { console.error("Execute error", err); });
        }
        gapi.load("client:auth2", function() {
-         gapi.auth2.init({client_id: "407156651285-7fv30r8i2ecaatog2avakbf4qe13e4s2.apps.googleusercontent.com"});
+         gapi.auth2.init({client_id: "YOUR_CLIENT_ID"});
        });
      </script>
      <button onclick="authenticate().then(loadClient)">authorize and load</button>
      <button onclick="execute()">execute</button>
+
+
 
 
 
