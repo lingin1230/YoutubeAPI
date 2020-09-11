@@ -1,0 +1,784 @@
+{
+  "kind": "youtube#videoListResponse",
+  "etag": "Hh-rYeLsB_-zy2aoglsx-Eo0d3k",
+  "items": [
+    {
+      "kind": "youtube#video",
+      "etag": "Drm9Wuwr3doO7tsqbJ7Tox7Rxss",
+      "id": "53vz5pQH0Rg",
+      "snippet": {
+        "publishedAt": "2020-09-10T17:00:10Z",
+        "channelId": "UCcgVECVN4OKV6DH1jLkqmcA",
+        "title": "Jake Paul - 23 (Official Music Video) Starring Logan Paul",
+        "description": "Save \"23\" to your music library 👉🏼 https://lnk.to/JP23\nSave \"23\" to your music library 👉🏼 https://lnk.to/JP23\nSave \"23\" to your music library 👉🏼 https://lnk.to/JP23\n\n🔴SUBSCRIBE ➤ http://bit.ly/SUB2JAKEPAUL \n\nINSTAGRAM ➤  https://www.instagram.com/JakePaul \nTWITTER ➤  http://twitter.com/JakePaul\n\nCredits: \nDirected by: Jake Paul\nDP/Edit: Logan Meis\nSteadi: Aser Santos Jr.\n1st AC: Chris Pinto\n2nd AC: Donald Turner\nG&E: Special Purpose Lighting & Grip\nProducers: Nolan Riddle & Marcos Guerrero\nDP: Logan Meis\n\nLyrics:\nHad to do maybach \nI can’t do a regular Benz \nI like the seats that recline \nKnow I’m dog \nYes I’m fuckin her and her friend \nI like em two at a time \nAnd She wanna slide she pull out her insta and shit\nShe go if she fuck up the vibe \nHow am I 23 sittin on 23 I feel like Jordan \nI’m back in my prime (2x)\n\nThis years in the makin shit why would I lie \nDreamed of the whip now I don’t even drive \nI got a chauffeur \nShe told me I’m drivin her crazy \nShe hate what I’m doin online \n10 in a week and I’m just not suprised\nI had to take that one home to the guys \nI got the feds watchin \nHaters watchin \nNews watchin that’s a whole lotta eyes \nI went and Flooded my wrist \nFor the fuck of this shit \n\nWhile these rappers just run out of time \nI’m here forever \nThis lives televised \nAin’t no way they could take none from any of mine \nThat boy a vette \nAnd he still on the rise \nRolls or the Bentley shit I can’t decide \nI got the paparazzi at the front of my door \nI can’t leave shit I need a disguise\n\nHad to do maybach \nI can’t do a regular Benz \nI like the seats that recline \nKnow I’m dog \nYes I’m fuckin her and her friend \nI like em two at a time \nAnd She wanna slide she pull out her insta and shit\nShe go if she fuck up the vibe \nHow am I 23 sittin on 23 I feel like Jordan \nI’m back in my prime (2x)",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/53vz5pQH0Rg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/53vz5pQH0Rg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/53vz5pQH0Rg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/53vz5pQH0Rg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/53vz5pQH0Rg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Jake Paul",
+        "tags": [
+          "jake paul",
+          "mini jake paul",
+          "jake paul pranks",
+          "logan paul",
+          "jake paul scary vids",
+          "team 10",
+          "lucas and marcus",
+          "jake paul song",
+          "Jake Paul youtube",
+          "Hype House",
+          "team 10 vs hype house",
+          "trending",
+          "trending tiktok songs",
+          "Tik Tok",
+          "tik tok mashup",
+          "tik tok video",
+          "Jake Paul - Fresh Outta London (Official Music Video)",
+          "Jake Paul - 23 (Official Music Video) starring Logan Paul",
+          "Jake Paul - Every Day Bro",
+          "Logan Paul Vlogs",
+          "Jake Paul Vlogs",
+          "Impaulsive Podcast",
+          "NLE Choppa",
+          "Lil Tjay"
+        ],
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Jake Paul - 23 (Official Music Video) Starring Logan Paul",
+          "description": "Save \"23\" to your music library 👉🏼 https://lnk.to/JP23\nSave \"23\" to your music library 👉🏼 https://lnk.to/JP23\nSave \"23\" to your music library 👉🏼 https://lnk.to/JP23\n\n🔴SUBSCRIBE ➤ http://bit.ly/SUB2JAKEPAUL \n\nINSTAGRAM ➤  https://www.instagram.com/JakePaul \nTWITTER ➤  http://twitter.com/JakePaul\n\nCredits: \nDirected by: Jake Paul\nDP/Edit: Logan Meis\nSteadi: Aser Santos Jr.\n1st AC: Chris Pinto\n2nd AC: Donald Turner\nG&E: Special Purpose Lighting & Grip\nProducers: Nolan Riddle & Marcos Guerrero\nDP: Logan Meis\n\nLyrics:\nHad to do maybach \nI can’t do a regular Benz \nI like the seats that recline \nKnow I’m dog \nYes I’m fuckin her and her friend \nI like em two at a time \nAnd She wanna slide she pull out her insta and shit\nShe go if she fuck up the vibe \nHow am I 23 sittin on 23 I feel like Jordan \nI’m back in my prime (2x)\n\nThis years in the makin shit why would I lie \nDreamed of the whip now I don’t even drive \nI got a chauffeur \nShe told me I’m drivin her crazy \nShe hate what I’m doin online \n10 in a week and I’m just not suprised\nI had to take that one home to the guys \nI got the feds watchin \nHaters watchin \nNews watchin that’s a whole lotta eyes \nI went and Flooded my wrist \nFor the fuck of this shit \n\nWhile these rappers just run out of time \nI’m here forever \nThis lives televised \nAin’t no way they could take none from any of mine \nThat boy a vette \nAnd he still on the rise \nRolls or the Bentley shit I can’t decide \nI got the paparazzi at the front of my door \nI can’t leave shit I need a disguise\n\nHad to do maybach \nI can’t do a regular Benz \nI like the seats that recline \nKnow I’m dog \nYes I’m fuckin her and her friend \nI like em two at a time \nAnd She wanna slide she pull out her insta and shit\nShe go if she fuck up the vibe \nHow am I 23 sittin on 23 I feel like Jordan \nI’m back in my prime (2x)"
+        },
+        "defaultAudioLanguage": "en"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "Ejj1mkoV7vFJEYjhmhpAP3RV_P4",
+      "id": "n9xhJrPXop4",
+      "snippet": {
+        "publishedAt": "2020-09-09T16:18:02Z",
+        "channelId": "UCjmJDM5pRKbUlVIzDYYWb6g",
+        "title": "Dune Official Trailer",
+        "description": "Beyond fear, destiny awaits. Watch the trailer for the highly anticipated #DuneMovie now. \n\n\n-----------------\nhttps://www.facebook.com/dune\n https://twitter.com/dunemovie\nhttps://www.instagram.com/dunemovie\n-----------------\n\nOscar  nominee  Denis  Villeneuve  (“Arrival,”  “Blade  Runner  2049”)  directs  Warner  Bros.  Pictures  and  Legendary Pictures’ “Dune,” the big-screen adaptation of Frank Herbert’s seminal bestseller of the same name. A mythic and emotionally charged hero’s journey, “Dune” tells the story of Paul Atreides, a brilliant and gifted young man born into a great destiny beyond his understanding, who must travel to the most dangerous planet  in  the  universe  to  ensure  the  future  of  his  family  and  his  people.  As  malevolent  forces  explode  into conflict over the planet’s exclusive supply of the most precious resource in existence—a commodity capable of unlocking humanity’s greatest potential—only those who can conquer their fear will survive.The film stars Oscar nominee Timothée Chalamet (“Call Me by Your Name,”  “Little Women”), Rebecca Ferguson  (“Stephen  King’s  Doctor  Sleep,”   “Mission:  Impossible  –  Fallout”),  Oscar  Isaac  (the “Star  Wars” franchise) Oscar nominee Josh Brolin (“Milk,” “Avengers: Infinity War”), Stellan Skarsgård (HBO’s “Chernobyl,” “Avengers: Age of Ultron”), Dave Bautista (the “Guardians of the Galaxy” films, “Avengers: Endgame”), Stephen McKinley Henderson (“Fences,” “Lady Bird”), Zendaya (“Spider-Man: Homecoming,” HBO’s “Euphoria”), Chang Chen (“Mr.  Long,” “Crouching  Tiger,  Hidden  Dragon”),    David  Dastmalchian  (“Blade  Runner  2049,”  “The  Dark  Knight”), Sharon  Duncan-Brewster  (“Rogue  One:  A  Star  Wars  Story,”  Netflix’s “Sex  Education”),   with  Oscar  nominee Charlotte Rampling (“45 Years,” “Assassin’s Creed”), with Jason Momoa (“Aquaman,” HBO’s “Game of Thrones”), and Oscar winner Javier Bardem (“No Country for Old Men,” “Skyfall”).   Villeneuve directed “Dune” from a screenplay he co-wrote with Jon Spaihts and Eric Roth based on the novel of the same name written by Frank Herbert.  Villeneuve also produced the film with Mary Parent, Cale Boyter  and  Joe  Caracciolo,  Jr.   The  executive  producers  are  Tanya  Lapointe,  Joshua  Grode,  Herbert  W.  Gains, Jon Spaihts, Thomas Tull, Brian Herbert, Byron Merritt and Kim Herbert. Behind  the  scenes,  Villeneuve  reteamed  with  two-time  Oscar-nominated  production  designer  Patrice  Vermette  (“Arrival,”  “Sicario,”  “The  Young  Victoria”),  two-time  Oscar-nominated  editor  Joe  Walker  (“Blade  Runner  2049,”  “Arrival,”  “12  Years  a  Slave”),  two-time  Oscar-winning  visual  effects  supervisor  Paul  Lambert  (“First Man,” “Blade Runner 2049”), and Oscar-winning special effects supervisor Gerd Nefzer (“Blade Runner 2049”).    He  also  collaborated  for  the  first  time  with  Oscar-nominated  director  of  photography  Greig  Fraser  (“Lion,”  “Zero  Dark  Thirty,”  “Rogue  One:  A  Star  Wars  Story”);  three-time  Oscar-nominated  costume  designer  \nJacqueline West (“The Revenant,” “The Curious Case of Benjamin Button,” “Quills”) and co-costume designer Bob Morgan; and stunt coordinator Tom Struthers (“The Dark Knight” trilogy, “Inception”).  Oscar-winning and multiple  Oscar-nominated  composer  Hans  Zimmer  (“Blade  Runner  2049,”  “Inception,”  “Gladiator,”  “The  Lion King”) is creating the score.  Warner  Bros.  Pictures  and  Legendary  Pictures  Present  “Dune.”    The  film  is  slated  to  be  released  in  theaters on December 18, 2020.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/n9xhJrPXop4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/n9xhJrPXop4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/n9xhJrPXop4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/n9xhJrPXop4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/n9xhJrPXop4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Warner Bros. Pictures",
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Dune Official Trailer",
+          "description": "Beyond fear, destiny awaits. Watch the trailer for the highly anticipated #DuneMovie now. \n\n\n-----------------\nhttps://www.facebook.com/dune\n https://twitter.com/dunemovie\nhttps://www.instagram.com/dunemovie\n-----------------\n\nOscar  nominee  Denis  Villeneuve  (“Arrival,”  “Blade  Runner  2049”)  directs  Warner  Bros.  Pictures  and  Legendary Pictures’ “Dune,” the big-screen adaptation of Frank Herbert’s seminal bestseller of the same name. A mythic and emotionally charged hero’s journey, “Dune” tells the story of Paul Atreides, a brilliant and gifted young man born into a great destiny beyond his understanding, who must travel to the most dangerous planet  in  the  universe  to  ensure  the  future  of  his  family  and  his  people.  As  malevolent  forces  explode  into conflict over the planet’s exclusive supply of the most precious resource in existence—a commodity capable of unlocking humanity’s greatest potential—only those who can conquer their fear will survive.The film stars Oscar nominee Timothée Chalamet (“Call Me by Your Name,”  “Little Women”), Rebecca Ferguson  (“Stephen  King’s  Doctor  Sleep,”   “Mission:  Impossible  –  Fallout”),  Oscar  Isaac  (the “Star  Wars” franchise) Oscar nominee Josh Brolin (“Milk,” “Avengers: Infinity War”), Stellan Skarsgård (HBO’s “Chernobyl,” “Avengers: Age of Ultron”), Dave Bautista (the “Guardians of the Galaxy” films, “Avengers: Endgame”), Stephen McKinley Henderson (“Fences,” “Lady Bird”), Zendaya (“Spider-Man: Homecoming,” HBO’s “Euphoria”), Chang Chen (“Mr.  Long,” “Crouching  Tiger,  Hidden  Dragon”),    David  Dastmalchian  (“Blade  Runner  2049,”  “The  Dark  Knight”), Sharon  Duncan-Brewster  (“Rogue  One:  A  Star  Wars  Story,”  Netflix’s “Sex  Education”),   with  Oscar  nominee Charlotte Rampling (“45 Years,” “Assassin’s Creed”), with Jason Momoa (“Aquaman,” HBO’s “Game of Thrones”), and Oscar winner Javier Bardem (“No Country for Old Men,” “Skyfall”).   Villeneuve directed “Dune” from a screenplay he co-wrote with Jon Spaihts and Eric Roth based on the novel of the same name written by Frank Herbert.  Villeneuve also produced the film with Mary Parent, Cale Boyter  and  Joe  Caracciolo,  Jr.   The  executive  producers  are  Tanya  Lapointe,  Joshua  Grode,  Herbert  W.  Gains, Jon Spaihts, Thomas Tull, Brian Herbert, Byron Merritt and Kim Herbert. Behind  the  scenes,  Villeneuve  reteamed  with  two-time  Oscar-nominated  production  designer  Patrice  Vermette  (“Arrival,”  “Sicario,”  “The  Young  Victoria”),  two-time  Oscar-nominated  editor  Joe  Walker  (“Blade  Runner  2049,”  “Arrival,”  “12  Years  a  Slave”),  two-time  Oscar-winning  visual  effects  supervisor  Paul  Lambert  (“First Man,” “Blade Runner 2049”), and Oscar-winning special effects supervisor Gerd Nefzer (“Blade Runner 2049”).    He  also  collaborated  for  the  first  time  with  Oscar-nominated  director  of  photography  Greig  Fraser  (“Lion,”  “Zero  Dark  Thirty,”  “Rogue  One:  A  Star  Wars  Story”);  three-time  Oscar-nominated  costume  designer  \nJacqueline West (“The Revenant,” “The Curious Case of Benjamin Button,” “Quills”) and co-costume designer Bob Morgan; and stunt coordinator Tom Struthers (“The Dark Knight” trilogy, “Inception”).  Oscar-winning and multiple  Oscar-nominated  composer  Hans  Zimmer  (“Blade  Runner  2049,”  “Inception,”  “Gladiator,”  “The  Lion King”) is creating the score.  Warner  Bros.  Pictures  and  Legendary  Pictures  Present  “Dune.”    The  film  is  slated  to  be  released  in  theaters on December 18, 2020."
+        },
+        "defaultAudioLanguage": "en-US"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "w3V_5LCTe39_cfELqbk8ZBog7iQ",
+      "id": "pb28GKB3E08",
+      "snippet": {
+        "publishedAt": "2020-09-09T20:03:00Z",
+        "channelId": "UCzxG2q7N8jgMXaxjE6iVTDA",
+        "title": "6ix9ine Tell All Part 1 - No Holds Barred",
+        "description": "#PRESSPLAY: #TSR Founder Angelica Nwandu sits down with Tekashi #6ix9ine. In this no holds barred interview with Daniel Hernandez we address ALL of his controversies: his reputation as a snitch, his security detail, his $13 million record deal, his Fashion Nova lawsuit, his relationship with God, his relationships with women, his experience in jail and more. So did 6ix9ine troll The Shade Room? Watch the interview to find out.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/pb28GKB3E08/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/pb28GKB3E08/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/pb28GKB3E08/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/pb28GKB3E08/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/pb28GKB3E08/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "THE SHADE ROOM",
+        "tags": [
+          "Tekashi 6ix9ine",
+          "Tekashi",
+          "6ix9ine",
+          "Nipsey",
+          "Nipsey Hustle",
+          "The Shade Room",
+          "Angelica Nwandu",
+          "Nicky Minaj"
+        ],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "6ix9ine Tell All Part 1 - No Holds Barred",
+          "description": "#PRESSPLAY: #TSR Founder Angelica Nwandu sits down with Tekashi #6ix9ine. In this no holds barred interview with Daniel Hernandez we address ALL of his controversies: his reputation as a snitch, his security detail, his $13 million record deal, his Fashion Nova lawsuit, his relationship with God, his relationships with women, his experience in jail and more. So did 6ix9ine troll The Shade Room? Watch the interview to find out."
+        },
+        "defaultAudioLanguage": "en-US"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "GvNEOW1rwVSvwcSc-97M7IYHqSk",
+      "id": "TwT63p9D5vQ",
+      "snippet": {
+        "publishedAt": "2020-09-09T23:07:57Z",
+        "channelId": "UCzxG2q7N8jgMXaxjE6iVTDA",
+        "title": "6ix9ine Tell All Part 2: WHY I SNITCHED",
+        "description": "#PRESSPLAY: #TSR Founder Angelica Nwandu sits down with Tekashi #6ix9ine. In this no holds barred interview with Daniel Hernandez we address why he snitched, how his gang kidnapped him, domestic violence with his baby mother, and more- all in detail NEVER heard before. So did 6ix9ine troll The Shade Room? Watch the interview to find out",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/TwT63p9D5vQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/TwT63p9D5vQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/TwT63p9D5vQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/TwT63p9D5vQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/TwT63p9D5vQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "THE SHADE ROOM",
+        "tags": [
+          "Tekashi 6ix9ine",
+          "Tekashi",
+          "6ix9ine",
+          "Nipsey",
+          "Nipsey Hustle",
+          "The Shade Room",
+          "Angelica Nwandu",
+          "Nicky Minaj"
+        ],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "6ix9ine Tell All Part 2: WHY I SNITCHED",
+          "description": "#PRESSPLAY: #TSR Founder Angelica Nwandu sits down with Tekashi #6ix9ine. In this no holds barred interview with Daniel Hernandez we address why he snitched, how his gang kidnapped him, domestic violence with his baby mother, and more- all in detail NEVER heard before. So did 6ix9ine troll The Shade Room? Watch the interview to find out"
+        },
+        "defaultAudioLanguage": "en-US"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "7tN99Pr19WcBmxHjQV57Wh3vxBc",
+      "id": "_7SAYpHCTpg",
+      "snippet": {
+        "publishedAt": "2020-09-10T15:04:25Z",
+        "channelId": "UCsTcErHg8oDvUnTzoqsYeNw",
+        "title": "Xbox Series X and Xbox Series S Model Unboxing",
+        "description": "Microsoft sent over some models of the upcoming Xbox Series X and Xbox Series S for unboxing. These are not able to be turned on but are exact physical matches for the eventual retail units.\n\nFOLLOW ME IN THESE PLACES FOR UPDATES\r\nTwitter - http://twitter.com/unboxtherapy\r\nFacebook - http://facebook.com/lewis.hilsenteger\r\nInstagram - http://instagram.com/unboxtherapy",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_7SAYpHCTpg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_7SAYpHCTpg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_7SAYpHCTpg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/_7SAYpHCTpg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/_7SAYpHCTpg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Unbox Therapy",
+        "tags": [
+          "unbox therapy",
+          "unboxtherapy",
+          "tech",
+          "technology",
+          "gadgets",
+          "gadget",
+          "unboxing",
+          "review",
+          "unbox",
+          "therapy",
+          "new",
+          "youtube"
+        ],
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Xbox Series X and Xbox Series S Model Unboxing",
+          "description": "Microsoft sent over some models of the upcoming Xbox Series X and Xbox Series S for unboxing. These are not able to be turned on but are exact physical matches for the eventual retail units.\n\nFOLLOW ME IN THESE PLACES FOR UPDATES\r\nTwitter - http://twitter.com/unboxtherapy\r\nFacebook - http://facebook.com/lewis.hilsenteger\r\nInstagram - http://instagram.com/unboxtherapy"
+        },
+        "defaultAudioLanguage": "en"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "Kehz1nuz8yxhxWgv33x_74yutDU",
+      "id": "FOm8LqH5lz8",
+      "snippet": {
+        "publishedAt": "2020-09-09T22:36:46Z",
+        "channelId": "UCxMAbVFmxKUVGAll0WVGpFw",
+        "title": "Cardi B x Megan Thee Stallion - Inside the WAP (BTS) [Part 1]",
+        "description": "Cardi B x Megan Thee Stallion - Inside the WAP [Part 1]\r\nStream/Download: https://CardiB.lnk.to/WAP\r\nSubscribe for more official content from Cardi B: https://CardiB.lnk.to/Subscribe\r\n\r\nFollow Cardi B\r\nhttp://cardibofficial.com\r\nhttp://Twitter.com/IAmCardiB\r\nhttp://Facebook.com/IAmCardiB\r\nhttp://Instagram.com/f/iamcardib\r\nhttp://Soundcloud.com/IAmCardiB\r\n\r\nExclusive Bardi Gang merchandise available here: http://smarturl.it/BardiGangMerchYT\r\n\r\nThe official YouTube channel of Atlantic Records artist Cardi B. Subscribe for the latest music videos, performances, and more.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/FOm8LqH5lz8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/FOm8LqH5lz8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/FOm8LqH5lz8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/FOm8LqH5lz8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/FOm8LqH5lz8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Cardi B",
+        "tags": [
+          "Cardi B",
+          "Cardi",
+          "Atlantic Records",
+          "rap",
+          "hip hop",
+          "trap",
+          "latin",
+          "Bodak Yellow",
+          "bloody shoes",
+          "red bottoms",
+          "i like it",
+          "invasion of privacy",
+          "offset",
+          "bruno mars",
+          "finesse"
+        ],
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Cardi B x Megan Thee Stallion - Inside the WAP (BTS) [Part 1]",
+          "description": "Cardi B x Megan Thee Stallion - Inside the WAP [Part 1]\r\nStream/Download: https://CardiB.lnk.to/WAP\r\nSubscribe for more official content from Cardi B: https://CardiB.lnk.to/Subscribe\r\n\r\nFollow Cardi B\r\nhttp://cardibofficial.com\r\nhttp://Twitter.com/IAmCardiB\r\nhttp://Facebook.com/IAmCardiB\r\nhttp://Instagram.com/f/iamcardib\r\nhttp://Soundcloud.com/IAmCardiB\r\n\r\nExclusive Bardi Gang merchandise available here: http://smarturl.it/BardiGangMerchYT\r\n\r\nThe official YouTube channel of Atlantic Records artist Cardi B. Subscribe for the latest music videos, performances, and more."
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "RwvgElNyYgtNIyfDnCEf8bT3wHQ",
+      "id": "kNW-SO4nHco",
+      "snippet": {
+        "publishedAt": "2020-09-10T16:00:14Z",
+        "channelId": "UCbg_UMjlHJg_19SZckaKajg",
+        "title": "Fivio Foreign, Calboy, 24kGoldn and Mulatto's 2020 XXL Freshman Cypher",
+        "description": "Subscribe to XXL → http://bit.ly/subscribe-xxl \r\n\nWatch Fivio Foreign, Mulatto, Calboy and 24kGoldn's 2020 XXL Freshman cypher.\n\nBeat produced by Jetsonmade.\n\nVisit the 2020 XXL Freshman Class website → https://www.xxlmag.com/freshman/\n\nPurchase the 2020 XXL Freshman Class magazine issue online: https://shop.xxlmag.com/p/xxl-freshman-class-2020-magazine\n\nCredits: \nDirected by @travissatten \nProduced by @ritemediagroup \n\n#Cyphers #Cypher #XXLFreshman #XXLFreshman #HipHop #2020XXLFreshman #HipHopCypher #FivioForeign #Calboy #24kGoldn #Mulatto #HipHop\r\n\nGo here → http://www.xxlmag.com/\r\nXXL on Facebook → https://www.facebook.com/xxlmag\r\nXXL on Twitter → https://twitter.com/XXL\r\nXXL on Instagram → https://instagram.com/xxl/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/kNW-SO4nHco/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/kNW-SO4nHco/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/kNW-SO4nHco/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/kNW-SO4nHco/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/kNW-SO4nHco/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "XXL",
+        "tags": [
+          "cypher",
+          "cyphers",
+          "hip-hop",
+          "rap",
+          "rapper",
+          "xxl freshman",
+          "xxl freshmen",
+          "2020 xxl freshman",
+          "2020 xxl freshmen",
+          "hip-hop cypher",
+          "hip-hop cyphers",
+          "2020 xxl freshman cypher",
+          "xxl freshman cypher",
+          "mulatto",
+          "calboy",
+          "fivio foreign",
+          "24kgoldn",
+          "mulatto fivio foreign 24kgoldn calboy cypher",
+          "calboy cypher",
+          "mulatto cypher",
+          "fivio foreign cypher",
+          "24kgoldn cypher"
+        ],
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Fivio Foreign, Calboy, 24kGoldn and Mulatto's 2020 XXL Freshman Cypher",
+          "description": "Subscribe to XXL → http://bit.ly/subscribe-xxl \r\n\nWatch Fivio Foreign, Mulatto, Calboy and 24kGoldn's 2020 XXL Freshman cypher.\n\nBeat produced by Jetsonmade.\n\nVisit the 2020 XXL Freshman Class website → https://www.xxlmag.com/freshman/\n\nPurchase the 2020 XXL Freshman Class magazine issue online: https://shop.xxlmag.com/p/xxl-freshman-class-2020-magazine\n\nCredits: \nDirected by @travissatten \nProduced by @ritemediagroup \n\n#Cyphers #Cypher #XXLFreshman #XXLFreshman #HipHop #2020XXLFreshman #HipHopCypher #FivioForeign #Calboy #24kGoldn #Mulatto #HipHop\r\n\nGo here → http://www.xxlmag.com/\r\nXXL on Facebook → https://www.facebook.com/xxlmag\r\nXXL on Twitter → https://twitter.com/XXL\r\nXXL on Instagram → https://instagram.com/xxl/"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "M018NkvS8MatfQx8Vb4sdR2AVhM",
+      "id": "rXRQyd6_5j4",
+      "snippet": {
+        "publishedAt": "2020-09-09T17:05:28Z",
+        "channelId": "UC9YydG57epLqxA9cTzZXSeQ",
+        "title": "Call of Duty®: Black Ops Cold War - Multiplayer Reveal Trailer",
+        "description": "Call of Duty®: Black Ops Cold War Multiplayer features signature Black Ops combat and fast-paced battles by land, sea, and air.  Engage in deniable operations with all new and fan-favorite modes and maps from locations all over the globe.\n\nBlack Ops Cold War features a fully-connected Multiplayer experience with cross-play, cross-gen, and cross-progression support for the entire community.\n\nThis is the next generation of Black Ops Multiplayer.\n\nPre-order Call of Duty®: Black Ops Cold War now: http://bit.ly/preorderCW",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/rXRQyd6_5j4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/rXRQyd6_5j4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/rXRQyd6_5j4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/rXRQyd6_5j4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/rXRQyd6_5j4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Call of Duty",
+        "tags": [
+          "call of duty",
+          "cod",
+          "activision",
+          "multiplayer",
+          "cold war",
+          "black ops",
+          "video game",
+          "video games",
+          "gamer",
+          "gamers",
+          "gaming",
+          "reveal",
+          "event"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Call of Duty®: Black Ops Cold War - Multiplayer Reveal Trailer",
+          "description": "Call of Duty®: Black Ops Cold War Multiplayer features signature Black Ops combat and fast-paced battles by land, sea, and air.  Engage in deniable operations with all new and fan-favorite modes and maps from locations all over the globe.\n\nBlack Ops Cold War features a fully-connected Multiplayer experience with cross-play, cross-gen, and cross-progression support for the entire community.\n\nThis is the next generation of Black Ops Multiplayer.\n\nPre-order Call of Duty®: Black Ops Cold War now: http://bit.ly/preorderCW"
+        },
+        "defaultAudioLanguage": "en"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "ueBO3imGFa92-89g_0xpSmV-eZc",
+      "id": "D-0R1i6l1Rs",
+      "snippet": {
+        "publishedAt": "2020-09-10T15:06:42Z",
+        "channelId": "UCXGgrKt94gR6lmN4aN3mYTg",
+        "title": "Xbox Series X Unboxing",
+        "description": "Unboxing the brand new Xbox Series X!\nCheck out our hands on of the Xbox Series S: https://youtu.be/Gcop0L-_CX0\nXbox Series S vs Xbox Series X: https://youtu.be/P8lkMtuhu5Y\n\nMy new podcast The Test Drivers! https://www.relay.fm/testdrivers\nOur second channel @This Is! http://www.youtube.com/thisis\nI stream on Twitch now! https://www.twitch.tv/austinevans\nWe have a new Discord: https://discord.gg/sQ8Sw27\nSubscribe! http://www.youtube.com/austinevans\nInstagram: http://instagram.com/austinnotduncan\nTwitter: http://twitter.com/austinnotduncan",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/D-0R1i6l1Rs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/D-0R1i6l1Rs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/D-0R1i6l1Rs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/D-0R1i6l1Rs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/D-0R1i6l1Rs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Austin Evans",
+        "tags": [
+          "xbox series x",
+          "series x",
+          "xbox",
+          "xbox series x unboxing",
+          "unboxing",
+          "series x unboxing",
+          "series x vs ps5",
+          "ps5",
+          "playstation 5",
+          "xbox series x vs xbox series s",
+          "xbox series s vs xbox series x",
+          "series s vs series x",
+          "series x vs series s",
+          "console",
+          "game console",
+          "review",
+          "tech",
+          "hands on",
+          "sony",
+          "microsoft",
+          "playstation",
+          "the test drivers",
+          "test drivers",
+          "this is",
+          "austin evans"
+        ],
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Xbox Series X Unboxing",
+          "description": "Unboxing the brand new Xbox Series X!\nCheck out our hands on of the Xbox Series S: https://youtu.be/Gcop0L-_CX0\nXbox Series S vs Xbox Series X: https://youtu.be/P8lkMtuhu5Y\n\nMy new podcast The Test Drivers! https://www.relay.fm/testdrivers\nOur second channel @This Is! http://www.youtube.com/thisis\nI stream on Twitch now! https://www.twitch.tv/austinevans\nWe have a new Discord: https://discord.gg/sQ8Sw27\nSubscribe! http://www.youtube.com/austinevans\nInstagram: http://instagram.com/austinnotduncan\nTwitter: http://twitter.com/austinnotduncan"
+        },
+        "defaultAudioLanguage": "en"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "x5C5u867nNdQnYaAMHZMfc0ND7E",
+      "id": "wAPlzt2L7wE",
+      "snippet": {
+        "publishedAt": "2020-09-10T16:00:10Z",
+        "channelId": "UCEdvpU2pFRCVqU6yIPyTpMQ",
+        "title": "Marshmello & Demi Lovato - OK Not To Be OK (Official Music Video)",
+        "description": "Marshmello & Demi Lovato - OK Not To Be OK (Official Music Video)\nStream/Download \"OK Not To Be OK\" ▶ https://oknottobeok.com\n\nHope For The Day (HFTD) is a non-profit movement empowering the conversation on proactive suicide prevention and mental health education. Join the Proactive Suicide Prevention conversation at http://www.hftd.org \n\nSuicide Prevention starts with a conversation we're not having with our mental health due to Stigma. The first step to breaking that silence is dispelling stigmas of fear, judgement, and shame about our internal experiences. We achieve that by proclaiming It's Ok Not To Be Ok!\n\nTo find more info from HFTD:\nWebsite: http://www.hftd.org \nInstagram: https://instagram.com/hopefortheday\nTwitter: https://twitter.com/HopeForTheDay\nFacebook: http://facebook.com/hopefortheday\n\nOfficial Marshmello Merch ▶ https://mellogang.com/collections/new-arrivals/\n\n[✖‿✖] SUBSCRIBE HERE ▶ http://youtube.com/marshmellomusic?sub_confirmation=1\n\nMARSHMELLO:\nMerch | https://mellogang.com/collections/new-arrivals/\nSpotify | http://spoti.fi/Marshmello\nApple Music | http://apple.co/2n8Evz6\nSoundCloud | http://soundcloud.com/marshmellomusic\nInstagram | http://instagram.com/marshmellomusic\nFacebook | http://facebook.com/marshmellomusic\nTwitter | http://twitter.com/marshmellomusic\nTwitch | http://twitch.tv/marshmellomusic\nTikTok | https://tiktok.com/@marshmellomusic\n\nDEMI LOVATO:\nYouTube | https://youtube.com/user/therealdemilovato/?sub_confirmation=1\nInstagram | http://instagram.com/ddlovato\nTwitter | http://twitter.com/ddlovato\nFacebook | http://facebook.com/demilovato\nWebsite | http://demilovato.com\nMailing list | http://demilovato.com/#mailing-list\n\nCredits:\nDirector: Hannah Lux Davis \nProducers: Aaron Johnson / Brandon Bonfiglio\nDP: Carlos Veron \nEditors: Eric Wysocki / Hannah Lux Davis\nProduction Company: London Alley\n\nLyrics:\nFeeling like a drop in the ocean that don’t nobody notice\nMaybe it’s all just in your head\nFeeling like you’re trapped in your own skin, and now your body’s frozen\nBroken down, you’ve got nothing left\nWhen you’re high on emotion and you’re losing your focus and you feel too exhausted to pray\nDon’t get lost in the moment or give up when you’re closest, all you need is somebody to say\nIt’s okay not to be okay\nIt’s okay not to be okay\nWhen you’re down and you feel ashamed\nIt’s okay not to be okay\nFeeling like your life’s an illusion and lately you’re secluded\nThinking you’ll never get your chance\nFeeling like you got no solution, it’s only ‘cause you’re human\nNo control its out of your hands \nWhen you’re high on emotion and you’re losing your focus and you feel too exhausted to pray\nDon’t get lost in the moment or give up when you’re closest, all you need is somebody to say\nIt’s okay not to be okay\nIt’s okay not to be okay\nWhen you’re down and you feel ashamed\nIt’s okay not to be okay\nWhen you’re high on emotion and you’re losing your focus and you feel too exhausted to pray\nDon’t get lost in the moment or give up when you’re closest, all you need is somebody to say\nIt’s okay not to be okay\nIt’s okay not to be okay\nWhen you’re down and you feel ashamed\nIt’s okay not to be okay\nIt’s okay not to be okay\n\n---MORE Marshmello Music\nListen to Joytime III ▶ https://ffm.to/joytimeiii\nListen to Joytime II ▶ http://smarturl.it/JOYTIMEII\n\nWATCH COME & GO MUSIC VIDEO ▶ https://youtu.be/Dxm3cHrKcbA\nWATCH BE KIND MUSIC VIDEO ▶ https://youtu.be/ePao0cTGG-o\nWATCH RESCUE ME MUSIC VIDEO ▶ https://youtu.be/lPDw1QexVy4\nWATCH ONE THING RIGHT MUSIC VIDEO ▶ https://youtu.be/29a6o5vRKVM\nWATCH HERE WITH ME MUSIC VIDEO ▶ https://youtu.be/J3UXp9jIr-U\nWATCH PROJECT DREAMS MUSIC VIDEO ▶ https://youtu.be/Hn7WDtF3nKA\nWATCH HAPPIER MUSIC VIDEO ▶ https://youtu.be/m7Bc3pLyij0\nWATCH TOGETHER MUSIC VIDEO ▶ https://youtu.be/JePnQ1gSagc\nWATCH YOU CAN CRY MUSIC VIDEO ▶ https://youtu.be/2SJ0hgdciNE\nWATCH EVERYDAY MUSIC VIDEO ▶ https://youtu.be/bEdcJY8Emm8\nWATCH FLY MUSIC VIDEO ▶ https://youtu.be/oRArmtMA9AI\nWATCH FRIENDS MUSIC VIDEO ▶ https://youtu.be/jzD_yyEcp0M\nWATCH SILENCE MUSIC VIDEO ▶ https://youtu.be/Tx1sqYc3qas\nWATCH ALONE MUSIC VIDEO ▶ https://youtu.be/ALZHF5UqnU4\nWATCH KEEP IT MELLO MUSIC VIDEO ▶ https://youtu.be/_J_VpmXAzqg\n\n#Marshmello #DemiLovato #OKNotToBeOK",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/wAPlzt2L7wE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/wAPlzt2L7wE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/wAPlzt2L7wE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/wAPlzt2L7wE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/wAPlzt2L7wE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Marshmello",
+        "tags": [
+          "marshmello",
+          "demi lovato",
+          "ok not to be ok",
+          "marshmello demi lovato",
+          "marshmello demi lovato ok not to be ok",
+          "its ok not to be ok",
+          "love don't let me go",
+          "demi",
+          "mental health",
+          "suicide prevention",
+          "suicide awareness",
+          "hope for the day",
+          "pop music",
+          "demi lovato i love me",
+          "i love me",
+          "be kind",
+          "marshmello happier",
+          "marshmello alone",
+          "alone",
+          "uplifting music",
+          "positive music",
+          "halsey",
+          "blackpink",
+          "selena gomez",
+          "ice cream",
+          "wolves",
+          "ok",
+          "ok not to be ok lyrics",
+          "top songs 2020",
+          "come & go",
+          "juice wrld"
+        ],
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Marshmello & Demi Lovato - OK Not To Be OK (Official Music Video)",
+          "description": "Marshmello & Demi Lovato - OK Not To Be OK (Official Music Video)\nStream/Download \"OK Not To Be OK\" ▶ https://oknottobeok.com\n\nHope For The Day (HFTD) is a non-profit movement empowering the conversation on proactive suicide prevention and mental health education. Join the Proactive Suicide Prevention conversation at http://www.hftd.org \n\nSuicide Prevention starts with a conversation we're not having with our mental health due to Stigma. The first step to breaking that silence is dispelling stigmas of fear, judgement, and shame about our internal experiences. We achieve that by proclaiming It's Ok Not To Be Ok!\n\nTo find more info from HFTD:\nWebsite: http://www.hftd.org \nInstagram: https://instagram.com/hopefortheday\nTwitter: https://twitter.com/HopeForTheDay\nFacebook: http://facebook.com/hopefortheday\n\nOfficial Marshmello Merch ▶ https://mellogang.com/collections/new-arrivals/\n\n[✖‿✖] SUBSCRIBE HERE ▶ http://youtube.com/marshmellomusic?sub_confirmation=1\n\nMARSHMELLO:\nMerch | https://mellogang.com/collections/new-arrivals/\nSpotify | http://spoti.fi/Marshmello\nApple Music | http://apple.co/2n8Evz6\nSoundCloud | http://soundcloud.com/marshmellomusic\nInstagram | http://instagram.com/marshmellomusic\nFacebook | http://facebook.com/marshmellomusic\nTwitter | http://twitter.com/marshmellomusic\nTwitch | http://twitch.tv/marshmellomusic\nTikTok | https://tiktok.com/@marshmellomusic\n\nDEMI LOVATO:\nYouTube | https://youtube.com/user/therealdemilovato/?sub_confirmation=1\nInstagram | http://instagram.com/ddlovato\nTwitter | http://twitter.com/ddlovato\nFacebook | http://facebook.com/demilovato\nWebsite | http://demilovato.com\nMailing list | http://demilovato.com/#mailing-list\n\nCredits:\nDirector: Hannah Lux Davis \nProducers: Aaron Johnson / Brandon Bonfiglio\nDP: Carlos Veron \nEditors: Eric Wysocki / Hannah Lux Davis\nProduction Company: London Alley\n\nLyrics:\nFeeling like a drop in the ocean that don’t nobody notice\nMaybe it’s all just in your head\nFeeling like you’re trapped in your own skin, and now your body’s frozen\nBroken down, you’ve got nothing left\nWhen you’re high on emotion and you’re losing your focus and you feel too exhausted to pray\nDon’t get lost in the moment or give up when you’re closest, all you need is somebody to say\nIt’s okay not to be okay\nIt’s okay not to be okay\nWhen you’re down and you feel ashamed\nIt’s okay not to be okay\nFeeling like your life’s an illusion and lately you’re secluded\nThinking you’ll never get your chance\nFeeling like you got no solution, it’s only ‘cause you’re human\nNo control its out of your hands \nWhen you’re high on emotion and you’re losing your focus and you feel too exhausted to pray\nDon’t get lost in the moment or give up when you’re closest, all you need is somebody to say\nIt’s okay not to be okay\nIt’s okay not to be okay\nWhen you’re down and you feel ashamed\nIt’s okay not to be okay\nWhen you’re high on emotion and you’re losing your focus and you feel too exhausted to pray\nDon’t get lost in the moment or give up when you’re closest, all you need is somebody to say\nIt’s okay not to be okay\nIt’s okay not to be okay\nWhen you’re down and you feel ashamed\nIt’s okay not to be okay\nIt’s okay not to be okay\n\n---MORE Marshmello Music\nListen to Joytime III ▶ https://ffm.to/joytimeiii\nListen to Joytime II ▶ http://smarturl.it/JOYTIMEII\n\nWATCH COME & GO MUSIC VIDEO ▶ https://youtu.be/Dxm3cHrKcbA\nWATCH BE KIND MUSIC VIDEO ▶ https://youtu.be/ePao0cTGG-o\nWATCH RESCUE ME MUSIC VIDEO ▶ https://youtu.be/lPDw1QexVy4\nWATCH ONE THING RIGHT MUSIC VIDEO ▶ https://youtu.be/29a6o5vRKVM\nWATCH HERE WITH ME MUSIC VIDEO ▶ https://youtu.be/J3UXp9jIr-U\nWATCH PROJECT DREAMS MUSIC VIDEO ▶ https://youtu.be/Hn7WDtF3nKA\nWATCH HAPPIER MUSIC VIDEO ▶ https://youtu.be/m7Bc3pLyij0\nWATCH TOGETHER MUSIC VIDEO ▶ https://youtu.be/JePnQ1gSagc\nWATCH YOU CAN CRY MUSIC VIDEO ▶ https://youtu.be/2SJ0hgdciNE\nWATCH EVERYDAY MUSIC VIDEO ▶ https://youtu.be/bEdcJY8Emm8\nWATCH FLY MUSIC VIDEO ▶ https://youtu.be/oRArmtMA9AI\nWATCH FRIENDS MUSIC VIDEO ▶ https://youtu.be/jzD_yyEcp0M\nWATCH SILENCE MUSIC VIDEO ▶ https://youtu.be/Tx1sqYc3qas\nWATCH ALONE MUSIC VIDEO ▶ https://youtu.be/ALZHF5UqnU4\nWATCH KEEP IT MELLO MUSIC VIDEO ▶ https://youtu.be/_J_VpmXAzqg\n\n#Marshmello #DemiLovato #OKNotToBeOK"
+        },
+        "defaultAudioLanguage": "en"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "rFLqPyIY4qvUai9He7-rYH2nRmQ",
+      "id": "Bfwh_taxvVA",
+      "snippet": {
+        "publishedAt": "2020-09-09T16:01:39Z",
+        "channelId": "UCbg_UMjlHJg_19SZckaKajg",
+        "title": "NLE Choppa, Rod Wave, Lil Tjay and Chika's 2020 XXL Freshman Cypher",
+        "description": "Subscribe to XXL → http://bit.ly/subscribe-xxl \r\n\nWatch NLE Choppa, Rod Wave, Lil Tjay and Chika's 2020 XXL Freshman cypher.\n\nBeat produced by Jetsonmade.\n\nVisit the 2020 XXL Freshman Class website → https://www.xxlmag.com/freshman/\n\nPurchase the 2020 XXL Freshman Class magazine issue online: https://shop.xxlmag.com/p/xxl-freshman-class-2020-magazine\n\nCredits: \nDirected by @travissatten \nProduced by @ritemediagroup \n\n#Cyphers #Cypher #XXLFreshman #XXLFreshman #HipHop #2020XXLFreshman #HipHopCypher #NLEChoppa #RodWave #LilTjay #Chika #HipHop\n\r\nGo here → http://www.xxlmag.com/\r\nXXL on Facebook → https://www.facebook.com/xxlmag\r\nXXL on Twitter → https://twitter.com/XXL\r\nXXL on Instagram → https://instagram.com/xxl/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Bfwh_taxvVA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Bfwh_taxvVA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Bfwh_taxvVA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Bfwh_taxvVA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Bfwh_taxvVA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "XXL",
+        "tags": [
+          "cypher",
+          "cyphers",
+          "hip-hop",
+          "rap",
+          "rapper",
+          "xxl freshman",
+          "xxl freshmen",
+          "2020 xxl freshman",
+          "2020 xxl freshmen",
+          "hip-hop cypher",
+          "hip-hop cyphers",
+          "nle choppa",
+          "chika",
+          "lil tjay",
+          "rod wave",
+          "nle choppa cypher",
+          "lil tjay cypher",
+          "chika cypher",
+          "rod wave cypher",
+          "nle choppa rod wave lil tjay chika cypher",
+          "2020 xxl freshman cypher",
+          "xxl freshman cypher"
+        ],
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "NLE Choppa, Rod Wave, Lil Tjay and Chika's 2020 XXL Freshman Cypher",
+          "description": "Subscribe to XXL → http://bit.ly/subscribe-xxl \r\n\nWatch NLE Choppa, Rod Wave, Lil Tjay and Chika's 2020 XXL Freshman cypher.\n\nBeat produced by Jetsonmade.\n\nVisit the 2020 XXL Freshman Class website → https://www.xxlmag.com/freshman/\n\nPurchase the 2020 XXL Freshman Class magazine issue online: https://shop.xxlmag.com/p/xxl-freshman-class-2020-magazine\n\nCredits: \nDirected by @travissatten \nProduced by @ritemediagroup \n\n#Cyphers #Cypher #XXLFreshman #XXLFreshman #HipHop #2020XXLFreshman #HipHopCypher #NLEChoppa #RodWave #LilTjay #Chika #HipHop\n\r\nGo here → http://www.xxlmag.com/\r\nXXL on Facebook → https://www.facebook.com/xxlmag\r\nXXL on Twitter → https://twitter.com/XXL\r\nXXL on Instagram → https://instagram.com/xxl/"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "sNmVQJI2njsNfFuiUp--XcpweQQ",
+      "id": "CQta9Hq28rI",
+      "snippet": {
+        "publishedAt": "2020-09-09T08:51:13Z",
+        "channelId": "UCA2tt9GSU2sl8rAqjlLR3mQ",
+        "title": "Minecraft, But I'm Not Colorblind Anymore...",
+        "description": "Minecraft, But I'm Not Colorblind Anymore...\nI try out colorblind glasses that allow me to see normal colors for the first time in my entire life! This was insane.\n\nFollow my socials ↓↓↓\nTwitter/Instagram: @GeorgeNotFound\n\nMerch: https://georgenotfound.shop\n\nDream: @Dream \n\nWe check out different environments, blocks and colors in Minecraft to see how much they change when I wear the colorblind glasses. I also took a colorblind test before and after to see if the colorblind glasses actually made a difference! This was a crazy experience.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/CQta9Hq28rI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/CQta9Hq28rI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/CQta9Hq28rI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/CQta9Hq28rI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/CQta9Hq28rI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "GeorgeNotFound",
+        "tags": [
+          "minecraft",
+          "challenge",
+          "Minecraft but",
+          "Minecraft But I'm Not Colorblind Anymore",
+          "Minecraft Speedrunner VS Hunter",
+          "speed runner",
+          "Minecraft speed runner",
+          "minecraft hunter",
+          "minecraft mutant",
+          "Minecraft Speedrunner VS Assassin",
+          "Beating Minecraft but my friend tries to stop me",
+          "Dream Minecraft",
+          "George Minecraft youtube",
+          "minecraft challenge",
+          "minecraft server",
+          "minecraft survival",
+          "minecraft 1.14 survival",
+          "minecraft 1.15 survival",
+          "georgenotfound colorblind",
+          "colorblind glasses"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Minecraft, But I'm Not Colorblind Anymore...",
+          "description": "Minecraft, But I'm Not Colorblind Anymore...\nI try out colorblind glasses that allow me to see normal colors for the first time in my entire life! This was insane.\n\nFollow my socials ↓↓↓\nTwitter/Instagram: @GeorgeNotFound\n\nMerch: https://georgenotfound.shop\n\nDream: @Dream \n\nWe check out different environments, blocks and colors in Minecraft to see how much they change when I wear the colorblind glasses. I also took a colorblind test before and after to see if the colorblind glasses actually made a difference! This was a crazy experience."
+        },
+        "defaultAudioLanguage": "en"
+      }
+    }
+  ],
+  "nextPageToken": "CAwQAA",
+  "pageInfo": {
+    "totalResults": 200,
+    "resultsPerPage": 12
+  }
+}
